@@ -5,4 +5,4 @@ Follow in this manner:
 
 1. Discriptive Statistics
 2. Crash Course on Probability
-3. Probability Distribution Function
+3. Probability Distribution Function (Also covers Normal distribution & Non-Normal distributions)
